@@ -1,0 +1,3 @@
+Host isucon5
+  Hostname xxx.xxx.xxx.xx
+  IdentityFile ~/.ssh/google_compute_engine
